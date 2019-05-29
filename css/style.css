@@ -348,11 +348,14 @@ margin:0
 footer ul li a.active, footer ul li a:active, footer ul li a:focus, footer ul li a:hover {
 text-decoration:none
 }
+
 .bg-primary {
 background:#fdcc52;
 background:-webkit-linear-gradient(#fdcc52, #fdc539);
 background:linear-gradient(#fdcc52, #fdc539)
 }
+
+
 .text-primary {
 color:#fdcc52
 }
@@ -393,4 +396,21 @@ background:0 0
 img::-moz-selection {
 color:#fff;
 background:0 0
+}
+
+/*-------------------------------*/
+/*.proyectoText{*/
+ /*font-size: 20px !important;*/
+/*text-align: justify;*/
+/*}*/
+.iconBNA{
+    padding: 110px;
+    padding-top: 200px;
+}
+.bg-secondary{
+    background:url(../img/bg-pattern.png), #7b4397;
+    background:url(../img/bg-pattern.png), -webkit-linear-gradient(to bottom, #fdcc52, white);
+    background:url(../img/bg-pattern.png), linear-gradient(50deg,transparent 80%, #fdcc52 80%);
+    /*background:*/
+    /*background:*/
 }
