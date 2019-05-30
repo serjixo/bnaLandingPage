@@ -350,12 +350,16 @@ text-decoration:none
 }
 
 .bg-primary {
-background:#fdcc52;
-background:-webkit-linear-gradient(#fdcc52, #fdc539);
-background:linear-gradient(#fdcc52, #fdc539);
+    background:#fdcc52;
+    background:url(../img/bg-pattern.png), -webkit-linear-gradient(#fdcc52, #fdc539);
+    background:url(../img/bg-pattern.png),linear-gradient(60deg, #fdcc52, #fdc539 80%, transparent 80%);
     color: #5e5e5e;
     font-weight: bolder;
+
+    ;
+
 }
+
 
 
 .text-primary {
