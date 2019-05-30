@@ -352,12 +352,12 @@ text-decoration:none
 .bg-primary {
     background:#fdcc52;
     background:url(../img/bg-pattern.png), -webkit-linear-gradient(#fdcc52, #fdc539);
-    background:url(../img/bg-pattern.png),linear-gradient(60deg, #fdcc52, #fdc539 80%, transparent 80%);
+    background:url(../img/geordanna-cordero-fields-762610-unsplash.jpg),linear-gradient(60deg, #fdcc52, #fdc539 80%, transparent 80%);
+    background-size: cover;
+    /*color: #101010;*/
     color: #5e5e5e;
+    font-family:Catamaran, Helvetica, Arial, sans-serif;
     font-weight: bolder;
-
-    ;
-
 }
 
 
