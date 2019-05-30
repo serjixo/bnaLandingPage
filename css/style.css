@@ -352,7 +352,9 @@ text-decoration:none
 .bg-primary {
 background:#fdcc52;
 background:-webkit-linear-gradient(#fdcc52, #fdc539);
-background:linear-gradient(#fdcc52, #fdc539)
+background:linear-gradient(#fdcc52, #fdc539);
+    color: #5e5e5e;
+    font-weight: bolder;
 }
 
 
@@ -413,4 +415,7 @@ background:0 0
     background:url(../img/bg-pattern.png), linear-gradient(50deg,transparent 80%, #fdcc52 80%);
     /*background:*/
     /*background:*/
+}
+.logoTeam{
+    max-width: 900px;
 }
