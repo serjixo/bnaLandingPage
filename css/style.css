@@ -405,10 +405,10 @@ background:0 0
 }
 
 /*-------------------------------*/
-/*.proyectoText{*/
- /*font-size: 20px !important;*/
-/*text-align: justify;*/
-/*}*/
+/*.proyectoText{
+font-size: 20px !important;
+text-align: justify;
+}*/
 .iconBNA{
     padding: 110px;
     padding-top: 200px;
@@ -422,4 +422,14 @@ background:0 0
 }
 .logoTeam{
     max-width: 900px;
+}
+
+.bnaFavIcon{
+    margin-top: -12px;
+    height: 50px;
+    width: 100px;
+}
+
+.textoJustificado{
+    text-align: justify;
 }
