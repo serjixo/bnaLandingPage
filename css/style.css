@@ -438,6 +438,11 @@ text-align: justify;
     background-color: rgba(255, 255, 255, 0.7);
     border-radius: 2%;
 }
+.textoConFondoBlack{
+    background-color: rgba(91,85,84, 0.7);
+    border-radius: 2%;
+    padding: 20px;
+}
 
 section.metodologia {
     position:relative;
