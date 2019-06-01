@@ -441,8 +441,15 @@ text-align: justify;
 .textoConFondoBlack{
     background-color: rgba(91,85,84, 0.7);
     border-radius: 2%;
-    padding: 20px;
 }
+
+.textoConFondoBlackFixed{
+    background-color: rgba(91,85,84, 0.7);
+    border-radius: 2%;
+    min-height: 382px;
+    margin-bottom: 10px;
+}
+
 
 section.metodologia {
     position:relative;
@@ -503,4 +510,9 @@ section.tecnologias {
 section.tecnologias .tecnologias-content{
     position:relative;
     z-index:1
+}
+
+.logoTecnologia{
+    max-width: 200px;
+    height: 150px;
 }
